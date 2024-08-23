@@ -246,14 +246,17 @@ section.ceremonia-fiesta .columna p{
 }
 
 section.ceremonia-fiesta .columna img.icon{
-  width: 100px;
+  width: 75px;
 }
 
 section.ceremonia-fiesta .columna img.anillos{
   width: 200px;
 }
 
-
+section.confirmar-asistencia img.icon{
+  width: 65px;
+  margin-top: 25px;
+}
 
 /* ---------- */
 
