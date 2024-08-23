@@ -1,6 +1,6 @@
 // Instagram parallax
-$('.parallax-instagram').parallax({
-  imageSrc: 'assets/img/instagram.jpg'
+$('.parallax-confirmar-asistencia').parallax({
+  imageSrc: 'assets/img/portada2.jpg'
 
 });
 
