@@ -246,7 +246,7 @@ section.ceremonia-fiesta .columna p{
 }
 
 section.ceremonia-fiesta .columna img.icon{
-  width: 150px;
+  width: 100px;
 }
 
 section.ceremonia-fiesta .columna img.anillos{
@@ -458,7 +458,7 @@ section.protocolo p{
 section.gracias{
   text-align: center;
   padding: 50px 0;
-  background-color: #666;
+  background-color: #ddc190;
 }
 
 section.gracias p{
