@@ -354,7 +354,7 @@ section.confirmar-asistencia{
 
 section.confirmar-asistencia h4 {
     font-weight: 400;
-    font-size: 35px;
+    font-size: 30px;
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 25px;
@@ -568,7 +568,7 @@ section.contacto ul li i{
 
 
   .logo-portada img{
-    max-width: 70%;
+    max-width: 85%;
   }
 
   .logo-portada{
